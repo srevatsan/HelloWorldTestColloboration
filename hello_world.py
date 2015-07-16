@@ -7,3 +7,7 @@ def hello_world_sri():
     print("Hello world")
     return 0
 
+def hello_feature_sri():
+    print("Hello Sri")
+    return 0
+
